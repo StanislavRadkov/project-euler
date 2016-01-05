@@ -6,8 +6,15 @@ namespace Problems
     {
         static void Main(string[] args)
         {
-            var problem = new Problem0001();
+            var start = DateTime.Now;
+            
+            var problem = new Problem0004();
             Console.WriteLine(problem.Solve());
+
+            var end = DateTime.Now;
+            var time = end - start;
+
+            Console.WriteLine("Time: {0}", time);
         }
     }
 }
