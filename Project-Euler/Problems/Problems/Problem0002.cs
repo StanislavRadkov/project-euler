@@ -7,23 +7,26 @@ namespace Problems
     {
         public long Solve()
         {
-            long v1 = 1, v2 = 2;
-            long sum = v2;
-
-            do
+            checked
             {
-                long v3 = v1 + v2;
-                v1 = v2;
-                v2 = v3;
+                long v1 = 1, v2 = 2;
+                long sum = v2;
 
-                if (v3 % 2 == 0)
+                do
                 {
-                    sum += v3;
-                }
+                    long v3 = v1 + v2;
+                    v1 = v2;
+                    v2 = v3;
 
-            } while (v2 <= 4000000);
+                    if (v3%2 == 0)
+                    {
+                        sum += v3;
+                    }
 
-            return sum;
+                } while (v2 <= 4000000);
+
+                return sum;
+            }
         }
     }
 }

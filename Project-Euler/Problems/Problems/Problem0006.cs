@@ -8,15 +8,18 @@ namespace Problems
     {
         public int Solve()
         {
-            var squareOfSum = 0;
-            var sumOfSqaures = 0;
+            checked
+            {
+                var squareOfSum = 0;
+                var sumOfSqaures = 0;
 
-            sumOfSqaures = Enumerable.Range(1, 100).Aggregate((a, b) => a + (b*b));
-            squareOfSum = Enumerable.Range(1, 100).Sum();
+                sumOfSqaures = Enumerable.Range(1, 100).Aggregate((a, b) => a + (b*b));
+                squareOfSum = Enumerable.Range(1, 100).Sum();
 
-            squareOfSum = squareOfSum * squareOfSum;
+                squareOfSum = squareOfSum*squareOfSum;
 
-            return squareOfSum - sumOfSqaures;
+                return squareOfSum - sumOfSqaures;
+            }
         }
     }
 }

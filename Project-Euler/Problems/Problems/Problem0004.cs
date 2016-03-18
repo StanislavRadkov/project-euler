@@ -13,29 +13,32 @@ namespace Problems
 
         public static int findPalindromic()
         {
-            int palindromic = -1;
-
-            for (var a = 999; a >= 100; a--)
+            checked
             {
-                for (var b = 999; b >= 100; b--)
+                int palindromic = -1;
+
+                for (var a = 999; a >= 100; a--)
                 {
-                    var c = a * b;
-
-                    var s = c.ToString();
-                    var arr = s.ToCharArray();
-                    Array.Reverse(arr);
-
-                    if (s == String.Join("", arr))
+                    for (var b = 999; b >= 100; b--)
                     {
-                        if (palindromic < c)
+                        var c = a*b;
+
+                        var s = c.ToString();
+                        var arr = s.ToCharArray();
+                        Array.Reverse(arr);
+
+                        if (s == String.Join("", arr))
                         {
-                            palindromic = c;
+                            if (palindromic < c)
+                            {
+                                palindromic = c;
+                            }
                         }
                     }
                 }
-            }
 
-            return palindromic;
+                return palindromic;
+            }
         }
     }
 }

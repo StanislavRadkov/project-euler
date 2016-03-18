@@ -6,24 +6,27 @@ namespace Problems
     {
         public long Solve()
         {
-            for (var a = 1; a < 1000; a++)
+            checked
             {
-                for (var b = 1; b < 1000; b++)
+                for (var a = 1; a < 1000; a++)
                 {
-                    for (var c = 1; c < 1000; c++)
+                    for (var b = 1; b < 1000; b++)
                     {
-                        if ((a * a + b * b) == c * c)
+                        for (var c = 1; c < 1000; c++)
                         {
-                            if ((a + b + c) == 1000)
+                            if ((a*a + b*b) == c*c)
                             {
-                                return a*b*c;
+                                if ((a + b + c) == 1000)
+                                {
+                                    return a*b*c;
+                                }
                             }
                         }
                     }
                 }
-            }
 
-            return -1;
+                return -1;
+            }
         }
     }
 }

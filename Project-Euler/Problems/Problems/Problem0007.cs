@@ -6,20 +6,23 @@ namespace Problems
     {
         public int Solve()
         {
-            var primeCounter = 0;
-            var number = 1;
-
-            while (primeCounter < 10001)
+            checked
             {
-                number++;
+                var primeCounter = 0;
+                var number = 1;
 
-                if (Utils.IsPrime(number))
+                while (primeCounter < 10001)
                 {
-                    primeCounter++;
-                }
-            }
+                    number++;
 
-            return number;
+                    if (Utils.IsPrime(number))
+                    {
+                        primeCounter++;
+                    }
+                }
+
+                return number;
+            }
         }
     }
 }

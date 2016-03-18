@@ -6,25 +6,28 @@ namespace Problems
     {
         public int Solve()
         {
-            var number = -1;
-
-            for (number = 1; number < 999999999; number++)
+            checked
             {
-                var remainder = 0;
+                var number = -1;
 
-                for (var divider = 20; divider >= 10; divider--)
+                for (number = 1; number < 999999999; number++)
                 {
-                    remainder = number % divider;
+                    var remainder = 0;
 
-                    if (remainder != 0)
+                    for (var divider = 20; divider >= 10; divider--)
+                    {
+                        remainder = number%divider;
+
+                        if (remainder != 0)
+                            break;
+                    }
+
+                    if (remainder == 0)
                         break;
                 }
 
-                if (remainder == 0)
-                    break;
+                return number;
             }
-
-            return number;
         }
     }
 }
