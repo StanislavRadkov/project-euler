@@ -12,3 +12,4 @@
 9. [Special Pythagorean triplet](https://projecteuler.net/problem=9 "Special Pythagorean triplet") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0009.cs "Solution")
 10. [Summation of primes](https://projecteuler.net/problem=10 "Summation of primes") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0010.cs "Solution")
 11. [Largest product in a grid](https://projecteuler.net/problem=11 "Largest product in a grid") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0011.cs "Solution")
+11. [Highly divisible triangular number](https://projecteuler.net/problem=12 "Highly divisible triangular number") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0012.cs "Solution")
