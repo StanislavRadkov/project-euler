@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace Utilities
 {
@@ -13,9 +10,8 @@ namespace Utilities
             {
                 return false;
             }
-            ;
 
-            if (n%2 == 0)
+            if (n % 2 == 0)
             {
                 return (n == 2);
             }
@@ -24,7 +20,7 @@ namespace Utilities
 
             for (var i = 3; i <= m; i += 2)
             {
-                if (n%i == 0)
+                if (n % i == 0)
                 {
                     return false;
                 }
