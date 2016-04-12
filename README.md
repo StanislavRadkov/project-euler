@@ -14,3 +14,4 @@
 11. [Largest product in a grid](https://projecteuler.net/problem=11 "Largest product in a grid") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0011.cs "Solution")
 12. [Highly divisible triangular number](https://projecteuler.net/problem=12 "Highly divisible triangular number") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0012.cs "Solution")
 13. [Large sum](https://projecteuler.net/problem=13 "Large sum") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0013.cs "Solution")
+13. [Longest Collatz sequence](https://projecteuler.net/problem=14 "Longest Collatz sequence") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0014.cs "Solution")

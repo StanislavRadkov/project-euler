@@ -30,23 +30,26 @@ namespace Problems
 
         private int CalculateNumberOfDivisors(int number)
         {
-            var limit = Math.Sqrt(number);
-            var divisors = 0;
-
-            for (var i = 1; i <= limit; i++)
+            checked
             {
-                if (number % i == 0)
+                var limit = Math.Sqrt(number);
+                var divisors = 0;
+
+                for (var i = 1; i <= limit; i++)
                 {
-                    divisors = divisors + 2; //For every exact divisor up to the square root, there is a corresponding divisor above the square root.
+                    if (number % i == 0)
+                    {
+                        divisors = divisors + 2; //For every exact divisor up to the square root, there is a corresponding divisor above the square root.
+                    }
                 }
-            }
 
-            if (divisors > 0 && limit * limit == number)
-            {
-                divisors--;
-            }
+                if (divisors > 0 && limit * limit == number)
+                {
+                    divisors--;
+                }
 
-            return divisors;
+                return divisors;
+            }
         }
     }
 }
