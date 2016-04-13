@@ -8,7 +8,7 @@ namespace Problems
         {
             var start = DateTime.Now;
 
-            var problem = new Problem0014();
+            var problem = new Problem0015();
             Console.WriteLine(problem.Solve());
 
             var end = DateTime.Now;
