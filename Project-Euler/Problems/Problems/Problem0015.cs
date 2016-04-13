@@ -10,10 +10,9 @@ namespace Problems
             var a = 20;
             var b = 20;
 
-
             //http://www.mathwords.com/c/combination_formula.htm
-            var num = Factorial(2 * a);
-            var den = BigInteger.Pow(Factorial(b), 2);
+            var num = Factorial(a + b);
+            var den = BigInteger.Multiply(Factorial(a), Factorial(b));
             var k = BigInteger.Divide(num, den);
 
             return k;
