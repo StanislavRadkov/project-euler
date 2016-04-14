@@ -16,3 +16,4 @@
 13. [Large sum](https://projecteuler.net/problem=13 "Large sum") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0013.cs "Solution")
 14. [Longest Collatz sequence](https://projecteuler.net/problem=14 "Longest Collatz sequence") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0014.cs "Solution")
 15. [Lattice paths](https://projecteuler.net/problem=15 "Lattice paths") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0015.cs "Solution")
+16. [Power digit sum](https://projecteuler.net/problem=16 "Power digit sum") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0016.cs "Solution")
