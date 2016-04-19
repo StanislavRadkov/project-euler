@@ -9,7 +9,7 @@ namespace Problems
         public int Solve()
         {
             return String.Join(String.Empty, Enumerable.Range(1, 1000).Select((i) => WriteNumber(i).Replace(" ", String.Empty))).Length;
-       }
+        }
 
         public string WriteNumber(int n)
         {
