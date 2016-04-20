@@ -14,9 +14,9 @@ namespace Problems
 
                 for (var i = 2; i < number; i++)
                 {
-                    if (number%i == 0 && Utils.IsPrime(i))
+                    if (number % i == 0 && Utils.IsPrime(i))
                     {
-                        number = number/i;
+                        number = number / i;
                     }
                 }
 

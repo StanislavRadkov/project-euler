@@ -1,5 +1,4 @@
-﻿using System;
-using System.Linq;
+﻿using System.Linq;
 using Utilities;
 
 namespace Problems
@@ -13,10 +12,10 @@ namespace Problems
                 var squareOfSum = 0;
                 var sumOfSqaures = 0;
 
-                sumOfSqaures = Enumerable.Range(1, 100).Aggregate((a, b) => a + (b*b));
+                sumOfSqaures = Enumerable.Range(1, 100).Aggregate((a, b) => a + (b * b));
                 squareOfSum = Enumerable.Range(1, 100).Sum();
 
-                squareOfSum = squareOfSum*squareOfSum;
+                squareOfSum = squareOfSum * squareOfSum;
 
                 return squareOfSum - sumOfSqaures;
             }

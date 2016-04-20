@@ -10,7 +10,7 @@ namespace Problems
         public int Solve()
         {
             var number = BigInteger.Pow(new BigInteger(2), 1000);
-            var sum = number.ToString().Aggregate(0, (n, c) => n + (int)Char.GetNumericValue(c));
+            var sum = number.ToString().Aggregate(0, (n, c) => n + (int) Char.GetNumericValue(c));
 
             return sum;
         }

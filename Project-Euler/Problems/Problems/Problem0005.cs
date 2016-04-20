@@ -8,7 +8,7 @@ namespace Problems
         {
             checked
             {
-                var number = -1;
+                int number;
 
                 for (number = 1; number < 999999999; number++)
                 {
@@ -16,10 +16,12 @@ namespace Problems
 
                     for (var divider = 20; divider >= 10; divider--)
                     {
-                        remainder = number%divider;
+                        remainder = number % divider;
 
                         if (remainder != 0)
+                        {
                             break;
+                        }
                     }
 
                     if (remainder == 0)

@@ -183,7 +183,7 @@ namespace Problems
                 }
                 else
                 {
-                    var d = (int)Math.Floor(t / 10.0);
+                    var d = (int) Math.Floor(t / 10.0);
                     var s = t % 10;
 
                     switch (d)

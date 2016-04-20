@@ -21,13 +21,13 @@ namespace Problems
                 {
                     for (var b = 999; b >= 100; b--)
                     {
-                        var c = a*b;
+                        var c = a * b;
 
                         var s = c.ToString();
                         var arr = s.ToCharArray();
                         Array.Reverse(arr);
 
-                        if (s == String.Join("", arr))
+                        if (s == String.Join(String.Empty, arr))
                         {
                             if (palindromic < c)
                             {

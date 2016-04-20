@@ -18,7 +18,7 @@ namespace Problems
                     v1 = v2;
                     v2 = v3;
 
-                    if (v3%2 == 0)
+                    if (v3 % 2 == 0)
                     {
                         sum += v3;
                     }

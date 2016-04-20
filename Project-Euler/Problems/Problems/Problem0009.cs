@@ -14,11 +14,11 @@ namespace Problems
                     {
                         for (var c = 1; c < 1000; c++)
                         {
-                            if ((a*a + b*b) == c*c)
+                            if ((a * a + b * b) == c * c)
                             {
                                 if ((a + b + c) == 1000)
                                 {
-                                    return a*b*c;
+                                    return a * b * c;
                                 }
                             }
                         }
