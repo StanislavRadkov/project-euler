@@ -19,3 +19,4 @@
 16. [Power digit sum](https://projecteuler.net/problem=16 "Power digit sum") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0016.cs "Solution")
 17. [Number letter counts](https://projecteuler.net/problem=17 "Number letter counts") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0017.cs "Solution")
 18. [Maximum path sum I](https://projecteuler.net/problem=18 "Maximum path sum I") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0018.cs "Solution")
+19. [Counting Sundays](https://projecteuler.net/problem=19 "Counting Sundays") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0019.cs "Solution")
