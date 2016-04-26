@@ -21,3 +21,4 @@
 18. [Maximum path sum I](https://projecteuler.net/problem=18 "Maximum path sum I") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0018.cs "Solution")
 19. [Counting Sundays](https://projecteuler.net/problem=19 "Counting Sundays") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0019.cs "Solution")
 20. [Factorial digit sum](https://projecteuler.net/problem=20 "Factorial digit sum") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0020.cs "Solution")
+21. [Amicable numbers](https://projecteuler.net/problem=21 "Amicable numbers") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0021.cs "Solution")
