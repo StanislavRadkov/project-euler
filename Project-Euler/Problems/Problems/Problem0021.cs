@@ -6,10 +6,10 @@ namespace Problems
     {
         public int Solve()
         {
-            return sumAmicablePairs(10000);
+            return SumAmicablePairs(10000);
         }
 
-        private int sumDivisors(int number)
+        private int SumDivisors(int number)
         {
             var s = 0;
 
@@ -26,7 +26,7 @@ namespace Problems
             return s;
         }
 
-        private int sumAmicablePairs(int limit)
+        private int SumAmicablePairs(int limit)
         {
             var sum = 0;
 
@@ -34,9 +34,12 @@ namespace Problems
             {
                 for (var i = 0; i <= limit; i++)
                 {
-                    var a = sumDivisors(i);
+                    var a = SumDivisors(i);
 
-                    if (a > i && sumDivisors(a) == i) sum = sum + a + i;
+                    if (a > i && SumDivisors(a) == i)
+                    {
+                        sum = sum + a + i;
+                    }
                 }
             }
 
