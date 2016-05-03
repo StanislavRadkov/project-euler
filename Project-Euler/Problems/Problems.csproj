@@ -63,6 +63,7 @@
     <Compile Include="Problems\Problem0019.cs" />
     <Compile Include="Problems\Problem0020.cs" />
     <Compile Include="Problems\Problem0021.cs" />
+    <Compile Include="Problems\Problem0022.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -74,6 +75,9 @@
       <Project>{489FEF89-9F91-45EE-AAFA-1D5904536CA3}</Project>
       <Name>Utilities</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Files\p022_names.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
