@@ -1,5 +1,4 @@
 # Project Euler Solutions
-===================
 
 1. [Multiples of 3 and 5](https://projecteuler.net/problem=1 "Multiples of 3 and 5") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0001.cs "Solution")
 2. [Even Fibonacci numbers](https://projecteuler.net/problem=2 "Even Fibonacci numbers") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0002.cs "Solution")
