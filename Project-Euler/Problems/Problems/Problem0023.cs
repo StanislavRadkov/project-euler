@@ -12,7 +12,7 @@ namespace Problems
         public int Solve()
         {
             // Compute look-up table
-            for (int i = 1; i < isAbundant.Length; i++)
+            for (var i = 1; i < isAbundant.Length; i++)
             {
                 isAbundant[i] = IsAbundant(i);
             }
