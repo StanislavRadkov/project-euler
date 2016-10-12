@@ -1,4 +1,5 @@
 # Project Euler Solutions
+![alt text](https://projecteuler.net/profile/stanislav.vr.png "Project Euler Profile")
 
 1. [Multiples of 3 and 5](https://projecteuler.net/problem=1 "Multiples of 3 and 5") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0001.cs "Solution")
 2. [Even Fibonacci numbers](https://projecteuler.net/problem=2 "Even Fibonacci numbers") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0002.cs "Solution")
@@ -25,3 +26,4 @@
 23. [Non-abundant sums](https://projecteuler.net/problem=23 "Non-abundant sums") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0023.cs "Solution")
 24. [Lexicographic permutations](https://projecteuler.net/problem=24 "Lexicographic permutations") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0024.cs "Solution")
 25. [1000-digit Fibonacci number](https://projecteuler.net/problem=25 "1000-digit Fibonacci number") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0025.cs "Solution")
+26. [Reciprocal cycles](https://projecteuler.net/problem=26 "Reciprocal cycles") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0026.cs "Solution")
