@@ -23,3 +23,4 @@
 21. [Amicable numbers](https://projecteuler.net/problem=21 "Amicable numbers") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0021.cs "Solution")
 22. [Names scores](https://projecteuler.net/problem=22 "Names scores") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0022.cs "Solution")
 23. [Non-abundant sums](https://projecteuler.net/problem=23 "Non-abundant sums") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0023.cs "Solution")
+24. [Lexicographic permutations](https://projecteuler.net/problem=24 "Lexicographic permutations") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0024.cs "Solution")
