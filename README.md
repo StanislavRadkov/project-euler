@@ -24,3 +24,4 @@
 22. [Names scores](https://projecteuler.net/problem=22 "Names scores") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0022.cs "Solution")
 23. [Non-abundant sums](https://projecteuler.net/problem=23 "Non-abundant sums") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0023.cs "Solution")
 24. [Lexicographic permutations](https://projecteuler.net/problem=24 "Lexicographic permutations") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0024.cs "Solution")
+25. [1000-digit Fibonacci number](https://projecteuler.net/problem=25 "1000-digit Fibonacci number") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0025.cs "Solution")
