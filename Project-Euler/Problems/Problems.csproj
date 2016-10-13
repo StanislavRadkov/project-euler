@@ -75,13 +75,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Utilities\Utilities.csproj">
-      <Project>{489FEF89-9F91-45EE-AAFA-1D5904536CA3}</Project>
-      <Name>Utilities</Name>
-    </ProjectReference>
+    <Content Include="Files\p022_names.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Files\p022_names.txt" />
+    <ProjectReference Include="..\Utils\Utils.csproj">
+      <Project>{4d37015c-e178-44eb-a451-eb730ad75c7b}</Project>
+      <Name>Utils</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

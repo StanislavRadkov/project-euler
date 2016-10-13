@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problems", "Problems\Problems.csproj", "{0D952921-96DA-4DEE-A58B-0F8033FD4B55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{489FEF89-9F91-45EE-AAFA-1D5904536CA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{4D37015C-E178-44EB-A451-EB730AD75C7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,10 @@ Global
 		{0D952921-96DA-4DEE-A58B-0F8033FD4B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D952921-96DA-4DEE-A58B-0F8033FD4B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D952921-96DA-4DEE-A58B-0F8033FD4B55}.Release|Any CPU.Build.0 = Release|Any CPU
-		{489FEF89-9F91-45EE-AAFA-1D5904536CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{489FEF89-9F91-45EE-AAFA-1D5904536CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{489FEF89-9F91-45EE-AAFA-1D5904536CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{489FEF89-9F91-45EE-AAFA-1D5904536CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D37015C-E178-44EB-A451-EB730AD75C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D37015C-E178-44EB-A451-EB730AD75C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D37015C-E178-44EB-A451-EB730AD75C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D37015C-E178-44EB-A451-EB730AD75C7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
