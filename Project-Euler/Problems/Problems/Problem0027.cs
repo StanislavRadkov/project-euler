@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Utilities;
+﻿using Utilities;
 
 namespace Problems
 {
@@ -13,7 +8,6 @@ namespace Problems
         {
             checked
             {
-
                 var maxA = -1;
                 var maxB = -1;
                 var maxPrimesCount = -1;
