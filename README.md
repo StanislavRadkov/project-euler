@@ -29,3 +29,4 @@
 26. [Reciprocal cycles](https://projecteuler.net/problem=26 "Reciprocal cycles") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0026.cs "Solution")
 27. [Quadratic primes](https://projecteuler.net/problem=27 "Quadratic primes") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0027.cs "Solution")
 28. [Number spiral diagonals](https://projecteuler.net/problem=28 "Number spiral diagonals") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0028.cs "Solution")
+28. [Distinct powers](https://projecteuler.net/problem=29 "Distinct powers") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0029.cs "Solution")
