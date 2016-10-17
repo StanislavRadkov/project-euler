@@ -12,7 +12,7 @@ namespace Problems
                 var sideLength = 3;
                 var sideCounter = 1;
 
-                for (var i = 3; i <= 1002001;)
+                for (var i = 3; i <= 1001 * 1001;)
                 {
                     sum += i;
 
