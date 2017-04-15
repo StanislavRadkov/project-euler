@@ -33,3 +33,6 @@
 1. [Digit fifth powers](https://projecteuler.net/problem=30 "Digit fifth powers") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0030.cs "Solution")
 1. [Coin sums](https://projecteuler.net/problem=31 "Coin sums") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0031.cs "Solution")
 1. [Pandigital products](https://projecteuler.net/problem=32 "Pandigital products") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0032.cs "Solution")
+1. Digit cancelling fractions
+1. [Digit factorials](https://projecteuler.net/problem=34 "Digit factorials") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0034.cs "Solution")
+
