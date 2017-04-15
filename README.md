@@ -31,3 +31,4 @@
 28. [Number spiral diagonals](https://projecteuler.net/problem=28 "Number spiral diagonals") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0028.cs "Solution")
 29. [Distinct powers](https://projecteuler.net/problem=29 "Distinct powers") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0029.cs "Solution")
 30. [Digit fifth powers](https://projecteuler.net/problem=30 "Digit fifth powers") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0030.cs "Solution")
+30. [Coin sums](https://projecteuler.net/problem=31 "Coin sums") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0031.cs "Solution")

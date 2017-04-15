@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Utilities;
 
 namespace Problems
@@ -11,7 +7,7 @@ namespace Problems
     {
         public int Solve()
         {
-            var result = 0; // 6*(9^5) = 354294
+            var result = 0;
 
             for (var i = 2; i < 354294; i++)
             {
