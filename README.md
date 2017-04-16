@@ -35,4 +35,4 @@
 1. [Pandigital products](https://projecteuler.net/problem=32 "Pandigital products") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0032.cs "Solution")
 1. Digit cancelling fractions
 1. [Digit factorials](https://projecteuler.net/problem=34 "Digit factorials") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0034.cs "Solution")
-
+1. [Circular primes](https://projecteuler.net/problem=35 "Circular primes") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0035.cs "Solution")
