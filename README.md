@@ -36,3 +36,5 @@
 1. Digit cancelling fractions
 1. [Digit factorials](https://projecteuler.net/problem=34 "Digit factorials") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0034.cs "Solution")
 1. [Circular primes](https://projecteuler.net/problem=35 "Circular primes") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0035.cs "Solution")
+1. [Double-base palindromes](https://projecteuler.net/problem=36 "Double-base palindromes") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0036.cs "Solution")
+1. [Truncatable primes](https://projecteuler.net/problem=37 "Truncatable primes") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0037.cs "Solution")
