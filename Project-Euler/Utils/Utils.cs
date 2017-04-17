@@ -32,5 +32,18 @@ namespace Utilities
 
             return true;
         }
+
+        public static bool IsPalindrome(string s)
+        {
+            for (var i = 0; i < s.Length/2; i++)
+            {
+                if (s[i] != s[s.Length - 1 - i])
+                {
+                    return false;
+                }
+            }
+
+            return true;
+        }
     }
 }
