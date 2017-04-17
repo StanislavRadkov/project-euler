@@ -8,7 +8,6 @@ namespace Utilities
         {
             checked
             {
-
                 if (n < 2)
                 {
                     return false;
