@@ -39,3 +39,5 @@
 1. [Double-base palindromes](https://projecteuler.net/problem=36 "Double-base palindromes") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0036.cs "Solution")
 1. [Truncatable primes](https://projecteuler.net/problem=37 "Truncatable primes") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0037.cs "Solution")
 1. [Pandigital multiples](https://projecteuler.net/problem=38 "Pandigital multiples") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0038.cs "Solution")
+1. [Integer right triangles](https://projecteuler.net/problem=39 "Integer right triangles") - [Solution](https://github.com/StanislavRadkov/project-euler/blob/master/Project-Euler/Problems/Problems/Problem0039.cs "Solution")
+
