@@ -9,12 +9,23 @@ namespace Problems
         {
             checked
             {
-                var result = Enumerable.Range(1, 999)
-                                       .Where(x => x % 3 == 0 || x % 5 == 0)
-                                       .Sum();
+                long n = 100;
+                long sum = 0;
 
-                return result;
+                sum += Sum(n, 3);
+                sum += Sum(n, 5);
+                sum -= Sum(n, 15);
+
+                return (int)sum;
             }
+        }
+
+        private long Sum(long number, int divider)
+        {
+            if (divider == 0) return 0;
+
+            long n = (number - 1) / divider;
+            return divider * n * (n + 1) / 2;
         }
     }
 }
