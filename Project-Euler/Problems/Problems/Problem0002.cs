@@ -9,21 +9,22 @@ namespace Problems
         {
             checked
             {
-                long v1 = 1, v2 = 2;
-                long sum = v2;
+                long n = 4000000;
+                long v1 = 0, v2 = 1, v3 = 0;
+                long sum = 0;
 
-                do
+                while (v2 < n)
                 {
-                    long v3 = v1 + v2;
+                    v3 = v1 + v2;
                     v1 = v2;
                     v2 = v3;
 
-                    if (v3 % 2 == 0)
+                    if (v1 % 2 == 0)
                     {
-                        sum += v3;
+                        sum += v1;
                     }
 
-                } while (v2 <= 4000000);
+                }
 
                 return sum;
             }
